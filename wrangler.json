@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "ginislots8",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "245588e6-e9b5-4b72-879a-02111c0bc157",
+      "database_name": "ginislot8"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
